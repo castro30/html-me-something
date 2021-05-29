@@ -1,0 +1,25 @@
+#discriptionBackground {
+    display: inline-block;
+    height: 80%;
+    width: 40%;
+    margin: 70px;
+}
+
+.cent-heading{
+    padding: 20px;
+  }
+
+
+
+  #cool-text {
+    color: blue;
+    text-align: center;
+  }
+
+  #order-select {
+    color: blueviolet;
+  }
+
+  h2{
+      padding: 20px;
+  }
