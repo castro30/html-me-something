@@ -23,3 +23,7 @@
   h2{
       padding: 20px;
   }
+
+body.outset{
+    border-style: outset;
+}
