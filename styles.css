@@ -2,11 +2,11 @@
     display: inline-block;
     height: 80%;
     width: 40%;
-    margin: 70px;
 }
 
 .cent-heading{
     padding: 20px;
+    margin: 70px;
   }
 
 
@@ -26,4 +26,6 @@
 
 body.outset{
     border-style: outset;
+    padding: 20px;
+    margin: 70px;
 }
